@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "847252257780",
+    "firebase_url": "https://workman-e7694-default-rtdb.firebaseio.com",
+    "project_id": "workman-e7694",
+    "storage_bucket": "workman-e7694.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847252257780:android:4827181742828584c597a1",
+        "android_client_info": {
+          "package_name": "com.company.Workman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847252257780-k9l0hp5l684ghd8l135fabert8mqigfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.Workman",
+            "certificate_hash": "eb5faef4cd7f1410868964bb956a19f8b8c86267"
+          }
+        },
+        {
+          "client_id": "847252257780-b3lqrvp53pu9eei10ijji9mn4qd45p8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuFt4ULn0qRU2KpGb-6CZrZhq-vPrG87k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847252257780-b3lqrvp53pu9eei10ijji9mn4qd45p8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
